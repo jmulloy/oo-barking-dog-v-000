@@ -14,4 +14,3 @@ class Dog
   fido.name = "Fido"
   puts fido.name
   end
-end
